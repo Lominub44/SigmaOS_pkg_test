@@ -1,0 +1,11 @@
+[description]
+some small games
+
+[author]
+Unknown
+
+[version]
+1.0
+
+[requirements]
+
