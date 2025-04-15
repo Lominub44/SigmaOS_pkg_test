@@ -8,4 +8,4 @@ Unknown
 1.0
 
 [requirements]
-
+colorama
