@@ -1,0 +1,11 @@
+[description]
+experimental package
+
+[author]
+SigmaOS-Team Experimental
+
+[version]
+1.0
+
+[requirements]
+requirements
