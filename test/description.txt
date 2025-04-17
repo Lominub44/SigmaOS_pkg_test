@@ -8,4 +8,6 @@ SigmaOS-Team Experimental
 1.0
 
 [requirements]
-requirements
+tkinter
+pyautogui
+keyboard
